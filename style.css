@@ -1,4 +1,6 @@
 body{
-  background: red;
+  background: gray;
   font-size: 18px;
+  font-family: sans-serif;
+  color: black;
 }
